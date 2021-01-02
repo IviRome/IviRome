@@ -1,4 +1,4 @@
-# Iván Romero
+# 👾💻🌍 Iván Romero 🏐🎨😺
 
 Soy Iván Romero, actual estudiante de 4º del Grado en Tecnologías Interactivas impartido en la Escuela Plitécnica Superior de Gandía (UPV)
 
