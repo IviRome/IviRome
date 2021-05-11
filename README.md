@@ -5,7 +5,7 @@ Soy Iván Romero, actual estudiante de 4º del Grado en Tecnologías Interactiva
 Estoy abierto a participar en cualquier tipo de proyectos relacionados con mis estudios. Para contactar conmigo no dudéis en hablarme a:
 ivan.romero.ruiz@hotmail.com
 
-Los proyectos en los que participé durante mi vida de estudiante son los siguientes, entre otros:
+Los proyectos en los que participé durante mi vida de estudiante podeis encontrarlos en https://github.com/IviRome/Portfolio y son los siguientes, entre otros:
 
 Aplicación Android de Domótica y sensores Arduino
 -
