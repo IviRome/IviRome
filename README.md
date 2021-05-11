@@ -1,6 +1,6 @@
 # 👾💻🌍 Iván Romero 🏐🎨😺
 
-Soy Iván Romero, actual estudiante de 4º del Grado en Tecnologías Interactivas impartido en la Escuela Plitécnica Superior de Gandía (UPV)
+Soy Iván Romero, actual estudiante de 4º del Grado en Tecnologías Interactivas impartido en la Escuela Politécnica Superior de Gandía (UPV)
 
 Estoy interesado en hacer prácticas a partir de Febrero, asi que si os interesa mi trabajo, no dudeis en contactar conmigo:
 ivan.romero.ruiz@hotmail.com
